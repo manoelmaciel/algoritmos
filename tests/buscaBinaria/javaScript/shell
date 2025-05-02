@@ -1,0 +1,155 @@
+sex 02 mai 2025 12:39:52 
+
+  Criação da lista ...
+  
+maciel@worknote: javaScript$ date
+sex 02 mai 2025 11:55:48 -03
+maciel@worknote: javaScript$ node script.js 
+/home/maciel/studies/algoritmos/tests/buscaBinaria/javaScript/script.js:1
+/* sex 02 mai 2025 11:42:03 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+maciel@worknote: javaScript$ node script.js 
+/home/maciel/studies/algoritmos/tests/buscaBinaria/javaScript/script.js:15
+   myList[] = criarLista(100); 
+          ^
+
+SyntaxError: Unexpected token ']'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+maciel@worknote: javaScript$ node script.js 
+/home/maciel/studies/algoritmos/tests/buscaBinaria/javaScript/script.js:9
+     while(x  <= size){
+              ^
+
+ReferenceError: x is not defined
+    at criarLista (/home/maciel/studies/algoritmos/tests/buscaBinaria/javaScript/script.js:9:15)
+    at Object.<anonymous> (/home/maciel/studies/algoritmos/tests/buscaBinaria/javaScript/script.js:15:17)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+maciel@worknote: javaScript$ node script.js 
+/home/maciel/studies/algoritmos/tests/buscaBinaria/javaScript/script.js:11
+      lista[counter-1] = counter;
+      ^
+
+ReferenceError: lista is not defined
+    at criarLista (/home/maciel/studies/algoritmos/tests/buscaBinaria/javaScript/script.js:11:7)
+    at Object.<anonymous> (/home/maciel/studies/algoritmos/tests/buscaBinaria/javaScript/script.js:16:17)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+maciel@worknote: javaScript$ node script.js 
+/home/maciel/studies/algoritmos/tests/buscaBinaria/javaScript/script.js:27
+   console.log(map(myList));
+           ^
+
+ReferenceError: map is not defined
+    at Object.<anonymous> (/home/maciel/studies/algoritmos/tests/buscaBinaria/javaScript/script.js:27:12)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+maciel@worknote: javaScript$ node script.js 
+[
+  1, 2, 3, 4,  5,
+  6, 7, 8, 9, 10
+]
+maciel@worknote: javaScript$ node script.js 
+[
+  1, 2, 3, 4,  5,
+  6, 7, 8, 9, 10
+]
+maciel@worknote: javaScript$ node script.js 
+/home/maciel/studies/algoritmos/tests/buscaBinaria/javaScript/script.js:14
+       lista[index] = counter;
+       ^
+
+ReferenceError: lista is not defined
+    at criarLista (/home/maciel/studies/algoritmos/tests/buscaBinaria/javaScript/script.js:14:8)
+    at Object.<anonymous> (/home/maciel/studies/algoritmos/tests/buscaBinaria/javaScript/script.js:25:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+maciel@worknote: javaScript$ node script.js 
+[
+   1,  2,  3,   4,  5,  6,  7,  8,  9, 10, 11, 12,
+  13, 14, 15,  16, 17, 18, 19, 20, 21, 22, 23, 24,
+  25, 26, 27,  28, 29, 30, 31, 32, 33, 34, 35, 36,
+  37, 38, 39,  40, 41, 42, 43, 44, 45, 46, 47, 48,
+  49, 50, 51,  52, 53, 54, 55, 56, 57, 58, 59, 60,
+  61, 62, 63,  64, 65, 66, 67, 68, 69, 70, 71, 72,
+  73, 74, 75,  76, 77, 78, 79, 80, 81, 82, 83, 84,
+  85, 86, 87,  88, 89, 90, 91, 92, 93, 94, 95, 96,
+  97, 98, 99, 100
+]
+maciel@worknote: javaScript$ node script.js 
+[
+   1,  2,  3,   4,  5,  6,  7,  8,  9, 10, 11, 12,
+  13, 14, 15,  16, 17, 18, 19, 20, 21, 22, 23, 24,
+  25, 26, 27,  28, 29, 30, 31, 32, 33, 34, 35, 36,
+  37, 38, 39,  40, 41, 42, 43, 44, 45, 46, 47, 48,
+  49, 50, 51,  52, 53, 54, 55, 56, 57, 58, 59, 60,
+  61, 62, 63,  64, 65, 66, 67, 68, 69, 70, 71, 72,
+  73, 74, 75,  76, 77, 78, 79, 80, 81, 82, 83, 84,
+  85, 86, 87,  88, 89, 90, 91, 92, 93, 94, 95, 96,
+  97, 98, 99, 100,
+  ... 900 more items
+]
+.
+maciel@worknote: javaScript$ node script.js 
+[
+   1,  2,  3,   4,  5,  6,  7,  8,  9, 10, 11, 12,
+  13, 14, 15,  16, 17, 18, 19, 20, 21, 22, 23, 24,
+  25, 26, 27,  28, 29, 30, 31, 32, 33, 34, 35, 36,
+  37, 38, 39,  40, 41, 42, 43, 44, 45, 46, 47, 48,
+  49, 50, 51,  52, 53, 54, 55, 56, 57, 58, 59, 60,
+  61, 62, 63,  64, 65, 66, 67, 68, 69, 70, 71, 72,
+  73, 74, 75,  76, 77, 78, 79, 80, 81, 82, 83, 84,
+  85, 86, 87,  88, 89, 90, 91, 92, 93, 94, 95, 96,
+  97, 98, 99, 100,
+  ... 400 more items
+]
+.
+maciel@worknote: javaScript$ node script.js 
+[
+   1,  2,  3,   4,  5,  6,  7,  8,  9, 10, 11, 12,
+  13, 14, 15,  16, 17, 18, 19, 20, 21, 22, 23, 24,
+  25, 26, 27,  28, 29, 30, 31, 32, 33, 34, 35, 36,
+  37, 38, 39,  40, 41, 42, 43, 44, 45, 46, 47, 48,
+  49, 50, 51,  52, 53, 54, 55, 56, 57, 58, 59, 60,
+  61, 62, 63,  64, 65, 66, 67, 68, 69, 70, 71, 72,
+  73, 74, 75,  76, 77, 78, 79, 80, 81, 82, 83, 84,
+  85, 86, 87,  88, 89, 90, 91, 92, 93, 94, 95, 96,
+  97, 98, 99, 100,
+  ... 100 more items
+]
+.
+maciel@worknote: javaScript$ date
+sex 02 mai 2025 12:39:17 -03
+maciel@worknote: javaScript$ 
+  

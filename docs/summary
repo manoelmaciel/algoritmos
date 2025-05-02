@@ -20,5 +20,38 @@
     
     Pesquisa binária
     
+      Pesquisa simples
       
+        Um de cada vez        
+        Uma tentativa ruim de acertar
+        Só elimina um a cada tentativa
+        O(n)
+        
+        
+      Uma maneira melhor de buscar
+        
+        Pesquisa binária      
+        Sempre dividindo ao meio
+        Elimine a metade a cada tentaiva
+        O(log n)
+    
+    Logaritmos
+        
+      Logaritmos são o oposto de exponenciais
+      
+    Busca binária
+    
+      Código
+      
+    Exercícios
+    
+    
+    Tempo de execução
+    
+      
+        
+    
+      
+      
+        
   
