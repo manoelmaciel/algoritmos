@@ -1,0 +1,22 @@
+/* test.js.js
+ * https://pt.stackoverflow.com/questions/351404/o-comando-prompt-muda-o-valor
+*/
+
+/*
+// <script>
+    var ap1 = 4.2;
+    var ap2 = 9.4;
+    var ap3nota = 5 - ((ap1 + ap2) * 0.3);
+    var ap3questoes = (ap3nota / 0.16);
+    var nota = ap3questoes * 0.4;
+
+    // document.write(nota);
+    // document.write(Math.round(ap3questoes));
+    console.log(nota);
+    console.log(Math.round(ap3questoes));
+// </script>
+
+// Mas com o prompt o resultado fica errado.
+*/
+
+4

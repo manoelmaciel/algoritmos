@@ -1,0 +1,143 @@
+ter 29 abr 2025 16:22:42 
+
+maciel@worknote: algoritmos$ iniciar
+ter 29 abr 2025 15:57:12 -03
+/home/maciel/studies/python/algoritmos
+buscaBinaria.py
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	./
+
+nothing added to commit but untracked files present (use "git add" to track)
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ phyton3 buscaBinaria.py 
+phyton3: command not found
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ python3 buscaBinaria.py 
+  File "/home/maciel/studies/python/algoritmos/buscaBinaria.py", line 6
+    while baixo <= alto
+                       ^
+SyntaxError: expected ':'
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ continuar
+ter 29 abr 2025 15:59:52 -03
+buscaBinaria.py
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	./
+
+nothing added to commit but untracked files present (use "git add" to track)
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ python3 buscaBinaria.py 
+  File "/home/maciel/studies/python/algoritmos/buscaBinaria.py", line 10
+    if chute = item:
+       ^^^^^^^^^^^^
+SyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ python3 buscaBinaria.py 
+  File "/home/maciel/studies/python/algoritmos/buscaBinaria.py", line 22
+    print buscaBinaria(minhaLista, 3)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ continuar
+ter 29 abr 2025 16:02:48 -03
+buscaBinaria.py
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	./
+
+nothing added to commit but untracked files present (use "git add" to track)
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ python3 buscaBinaria.py 
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ python3 buscaBinaria.py 
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ python3 buscaBinaria.py 
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ python3 buscaBinaria.py 
+Traceback (most recent call last):
+  File "/home/maciel/studies/python/algoritmos/buscaBinaria.py", line 17, in <module>
+    print(buscaBinaria(minhaLista, 3))
+  File "/home/maciel/studies/python/algoritmos/buscaBinaria.py", line 6, in buscaBinaria
+    chute = lista[meio]    
+TypeError: list indices must be integers or slices, not float
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ continuar
+ter 29 abr 2025 16:15:34 -03
+buscaBinaria.py
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	./
+
+nothing added to commit but untracked files present (use "git add" to track)
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ python3 buscaBinaria.py 
+  File "/home/maciel/studies/python/algoritmos/buscaBinaria.py", line 17
+    print buscaBinaria(minhaLista, 3)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ python3 buscaBinaria.py 
+1
+Traceback (most recent call last):
+  File "/home/maciel/studies/python/algoritmos/buscaBinaria.py", line 20, in <module>
+    print(buscaBinaria(minhaLista, -1))
+  File "/home/maciel/studies/python/algoritmos/buscaBinaria.py", line 13, in buscaBinaria
+    return none  
+NameError: name 'none' is not defined. Did you mean: 'None'?
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ python3 buscaBinaria.py 
+1
+None
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ python3 buscaBinaria.py 
+1
+None
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ finalizar
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	./
+
+nothing added to commit but untracked files present (use "git add" to track)
+buscaBinaria.py
+/home/maciel/studies/python/algoritmos
+ter 29 abr 2025 16:21:53 -03
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ 
+maciel@worknote: algoritmos$ 
+
